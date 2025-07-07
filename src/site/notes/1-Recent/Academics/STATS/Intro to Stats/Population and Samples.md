@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/population-and-samples/","created":"2024-01-12T13:37:18.103-05:00","updated":"2025-07-07T17:21:02.425-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Population and Samples.md","permalink":"/stats/intro-to-stats/population-and-samples/","created":"2024-01-12T13:37:18.103-05:00","updated":"2025-07-07T17:21:02.425-04:00"}
 ---
 
 ## Population

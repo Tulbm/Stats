@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/chi-squared-distribution/","created":"2024-04-01T13:56:06.933-04:00","updated":"2025-07-07T17:21:02.162-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Chi-Squared Distribution.md","permalink":"/stats/intro-to-stats/chi-squared-distribution/","created":"2024-04-01T13:56:06.933-04:00","updated":"2025-07-07T17:21:02.162-04:00"}
 ---
 
 - if the random variable $Z$ has a standard normal distribution, $Z^2$ has a $\chi^2$ distribution with one degree of freedom

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/quantile-quantile-plots-qq-plot/","created":"2024-03-23T03:27:42.243-04:00","updated":"2025-07-07T17:21:02.443-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/quantile-quantile plots (QQ plot).md","permalink":"/stats/intro-to-stats/quantile-quantile-plots-qq-plot/","created":"2024-03-23T03:27:42.243-04:00","updated":"2025-07-07T17:21:02.443-04:00"}
 ---
 
 - plots the observed sample values against quantiles of a theoretical distribution

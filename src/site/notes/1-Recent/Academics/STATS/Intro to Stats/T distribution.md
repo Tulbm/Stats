@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/t-distribution/","created":"2024-11-28T16:34:14.944-05:00","updated":"2025-07-07T17:21:02.490-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/T distribution.md","permalink":"/stats/intro-to-stats/t-distribution/","created":"2024-11-28T16:34:14.944-05:00","updated":"2025-07-07T17:21:02.490-04:00"}
 ---
 
 # T distribution
