@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Consistency.md","permalink":"/math-stats-2/consistency/","created":"2025-01-30T12:13:22.547-05:00","updated":"2025-07-07T17:32:42.416-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Consistency.md","permalink":"/math-stats-2/consistency/","created":"2025-01-30T12:13:22.547-05:00","updated":"2025-07-07T17:55:04.290-04:00"}
 ---
 
 $\hat{\theta}$ is a **consistent** estimator of the parameter $\theta$ if and only if  $\exists\epsilon>0$
@@ -22,6 +22,7 @@ Consistent tests will have their [[1-Recent/Academics/STATS/Math Stats 2/Error t
 # Examples 
 
 The sample variance $S^2=\frac{1}{n-1} \sum_{i=1}^n (X_{i}-\bar{X})^2$ is a consistent estimator of the population variance $\sigma^2$
+
 $$\begin{align}
 \frac{(n-1)S^2}{\sigma^2} & \sim \huge\chi_{n-1}^2 \\
 E\left(  \frac{(n-1)S^2}{\sigma^2} \right) & =n-1 \\
