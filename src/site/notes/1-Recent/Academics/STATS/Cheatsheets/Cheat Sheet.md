@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Cheatsheets/Cheat Sheet.md","permalink":"/stats/cheatsheets/cheat-sheet/","created":"2025-07-07T16:19:57.723-04:00","updated":"2025-07-07T17:14:55.033-04:00"}
+{"dg-publish":true,"dg-path":"Cheatsheets/Cheat Sheet.md","permalink":"/cheatsheets/cheat-sheet/","created":"2025-07-07T16:19:57.723-04:00","updated":"2025-07-07T17:14:55.033-04:00"}
 ---
 
 **Discrete** 

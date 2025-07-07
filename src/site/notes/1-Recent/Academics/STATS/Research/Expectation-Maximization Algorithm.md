@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Research/Expectation-Maximization Algorithm.md","permalink":"/stats/research/expectation-maximization-algorithm/","created":"2025-05-11T20:49:04.783-04:00","updated":"2025-07-07T17:32:53.466-04:00"}
+{"dg-publish":true,"dg-path":"Research/Expectation-Maximization Algorithm.md","permalink":"/research/expectation-maximization-algorithm/","created":"2025-05-11T20:49:04.783-04:00","updated":"2025-07-07T17:32:53.466-04:00"}
 ---
 
 Broadly used algorithm in situations where the observed data is considered incomplete when finding [[1-Recent/Academics/STATS/Math Stats 2/Method of maximum likelihood\|Method of maximum likelihood]]

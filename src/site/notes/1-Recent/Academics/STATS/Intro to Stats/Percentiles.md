@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Percentiles.md","permalink":"/stats/intro-to-stats/percentiles/","created":"2024-04-19T18:16:21.587-04:00","updated":"2025-07-07T17:21:02.392-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Percentiles.md","permalink":"/intro-to-stats/percentiles/","created":"2024-04-19T18:16:21.587-04:00","updated":"2025-07-07T17:21:02.392-04:00"}
 ---
 
 

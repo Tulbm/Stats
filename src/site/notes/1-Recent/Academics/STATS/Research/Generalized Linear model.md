@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Research/Generalized Linear model.md","permalink":"/stats/research/generalized-linear-model/","created":"2025-05-20T18:46:29.297-04:00","updated":"2025-07-07T17:32:53.483-04:00"}
+{"dg-publish":true,"dg-path":"Research/Generalized Linear model.md","permalink":"/research/generalized-linear-model/","created":"2025-05-20T18:46:29.297-04:00","updated":"2025-07-07T17:32:53.483-04:00"}
 ---
 
 

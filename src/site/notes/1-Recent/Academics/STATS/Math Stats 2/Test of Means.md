@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Test of Means.md","permalink":"/stats/math-stats-2/test-of-means/","created":"2025-03-21T20:05:06.836-04:00","updated":"2025-07-07T17:32:42.579-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Test of Means.md","permalink":"/math-stats-2/test-of-means/","created":"2025-03-21T20:05:06.836-04:00","updated":"2025-07-07T17:32:42.579-04:00"}
 ---
 
 For samples following a normal distribution, use [[1-Recent/Academics/STATS/Intro to Stats/Test Statistics#Z test\|Z statistic]] or the [[1-Recent/Academics/STATS/Intro to Stats/Test Statistics#T test\|T statistic]] if $\sigma$ is unknown 

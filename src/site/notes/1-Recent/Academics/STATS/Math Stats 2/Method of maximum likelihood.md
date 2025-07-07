@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Method of maximum likelihood.md","permalink":"/stats/math-stats-2/method-of-maximum-likelihood/","created":"2025-02-06T12:23:56.555-05:00","updated":"2025-07-07T17:32:42.503-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Method of maximum likelihood.md","permalink":"/math-stats-2/method-of-maximum-likelihood/","created":"2025-02-06T12:23:56.555-05:00","updated":"2025-07-07T17:32:42.503-04:00"}
 ---
 
 Finds a value for $\theta$ such that it gives the maximum probability of observing the observed data in comparison to other values of $\theta$

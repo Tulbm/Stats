@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Negative Binomial Distribution.md","permalink":"/stats/intro-to-stats/negative-binomial-distribution/","created":"2024-04-14T19:01:13.473-04:00","updated":"2025-07-07T17:21:02.413-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Negative Binomial Distribution.md","permalink":"/intro-to-stats/negative-binomial-distribution/","created":"2024-04-14T19:01:13.473-04:00","updated":"2025-07-07T17:21:02.413-04:00"}
 ---
 
 [[1-Recent/Academics/STATS/Intro to Stats/Binomial Distribution\|Binomial Distribution]] until a set number of successes occur

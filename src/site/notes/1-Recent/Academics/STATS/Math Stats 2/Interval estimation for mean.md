@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Interval estimation for mean.md","permalink":"/stats/math-stats-2/interval-estimation-for-mean/","created":"2025-02-27T20:01:29.029-05:00","updated":"2025-07-07T17:32:42.458-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Interval estimation for mean.md","permalink":"/math-stats-2/interval-estimation-for-mean/","created":"2025-02-27T20:01:29.029-05:00","updated":"2025-07-07T17:32:42.458-04:00"}
 ---
 
 Let $(\theta_{l},\theta_{u})$ be a **random interval**. With an appropriate probability $1-\alpha$ (confidence coefficient), we want to find values of $\theta_{l}$ and $\theta_{u}$ such that

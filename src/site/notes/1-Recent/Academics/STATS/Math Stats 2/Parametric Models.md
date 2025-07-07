@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Parametric Models.md","permalink":"/stats/math-stats-2/parametric-models/","created":"2025-01-23T12:36:21.821-05:00","updated":"2025-07-07T17:32:42.526-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Parametric Models.md","permalink":"/math-stats-2/parametric-models/","created":"2025-01-23T12:36:21.821-05:00","updated":"2025-07-07T17:32:42.526-04:00"}
 ---
 
 In some situations we can assume a **parametric model** for the population 

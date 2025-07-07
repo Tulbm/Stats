@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Test of Proportions.md","permalink":"/stats/math-stats-2/test-of-proportions/","created":"2025-03-29T01:59:39.808-04:00","updated":"2025-07-07T17:32:42.550-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Test of Proportions.md","permalink":"/math-stats-2/test-of-proportions/","created":"2025-03-29T01:59:39.808-04:00","updated":"2025-07-07T17:32:42.550-04:00"}
 ---
 
 Discrete cases like $X\sim Binom$, where we have

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Mean square error.md","permalink":"/stats/math-stats-2/mean-square-error/","created":"2025-01-30T12:01:22.889-05:00","updated":"2025-07-07T17:32:42.475-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Mean square error.md","permalink":"/math-stats-2/mean-square-error/","created":"2025-01-30T12:01:22.889-05:00","updated":"2025-07-07T17:32:42.475-04:00"}
 ---
 
 The mean square error of an estimator $\hat{\theta}$ of the parameter $\theta$ is given by

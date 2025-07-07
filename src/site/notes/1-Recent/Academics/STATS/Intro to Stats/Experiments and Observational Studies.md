@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Experiments and Observational Studies.md","permalink":"/stats/intro-to-stats/experiments-and-observational-studies/","created":"2024-04-19T18:19:21.879-04:00","updated":"2025-07-07T17:21:02.238-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Experiments and Observational Studies.md","permalink":"/intro-to-stats/experiments-and-observational-studies/","created":"2024-04-19T18:19:21.879-04:00","updated":"2025-07-07T17:21:02.238-04:00"}
 ---
 
 ## Experiments and Observational Studies

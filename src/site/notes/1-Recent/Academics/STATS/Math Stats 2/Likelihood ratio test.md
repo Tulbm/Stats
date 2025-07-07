@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Likelihood ratio test.md","permalink":"/stats/math-stats-2/likelihood-ratio-test/","created":"2025-03-18T20:06:28.913-04:00","updated":"2025-07-07T17:32:42.464-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Likelihood ratio test.md","permalink":"/math-stats-2/likelihood-ratio-test/","created":"2025-03-18T20:06:28.913-04:00","updated":"2025-07-07T17:32:42.464-04:00"}
 ---
 
 To construct critical regions for a test of composite hypothesis:

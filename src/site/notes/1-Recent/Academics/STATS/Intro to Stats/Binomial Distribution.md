@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Binomial Distribution.md","permalink":"/stats/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-07T17:21:02.175-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Binomial Distribution.md","permalink":"/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-07T17:21:02.175-04:00"}
 ---
 
 # Interpretation

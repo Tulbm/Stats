@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Test function.md","permalink":"/stats/math-stats-2/test-function/","created":"2025-03-06T19:18:59.723-05:00","updated":"2025-07-07T17:32:42.569-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Test function.md","permalink":"/math-stats-2/test-function/","created":"2025-03-06T19:18:59.723-05:00","updated":"2025-07-07T17:32:42.569-04:00"}
 ---
 
 $$\phi(x_{1},\dots,x_{n})=\begin{cases}

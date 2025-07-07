@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Error types.md","permalink":"/stats/math-stats-2/error-types/","created":"2025-03-21T20:05:06.947-04:00","updated":"2025-07-07T17:32:42.410-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Error types.md","permalink":"/math-stats-2/error-types/","created":"2025-03-21T20:05:06.947-04:00","updated":"2025-07-07T17:32:42.410-04:00"}
 ---
 
 Type 1 error rate = $\alpha$ = $P(\text{Type 1 error})=P(\text{reject }H_{0}|H_{0} \text{ is true})$
