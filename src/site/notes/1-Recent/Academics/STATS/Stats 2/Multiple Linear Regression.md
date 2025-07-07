@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/stats-2/multiple-linear-regression/","created":"2025-01-27T12:41:49.429-05:00","updated":"2025-07-07T17:33:00.014-04:00"}
+{"dg-publish":true,"dg-path":"Stats 2/Multiple Linear Regression.md","permalink":"/stats-2/multiple-linear-regression/","created":"2025-01-27T12:41:49.429-05:00","updated":"2025-07-07T17:33:00.014-04:00"}
 ---
 
 

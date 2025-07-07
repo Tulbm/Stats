@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/confidence-intervals/","created":"2024-02-24T15:34:54.966-05:00","updated":"2025-07-07T17:21:02.206-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Confidence Intervals.md","permalink":"/intro-to-stats/confidence-intervals/","created":"2024-02-24T15:34:54.966-05:00","updated":"2025-07-07T17:21:02.206-04:00"}
 ---
 
 - confidence intervals are calculated using sample data, and they give a range of plausible values for a parameter

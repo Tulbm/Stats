@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/finding-point-estimators/","created":"2025-02-06T11:49:38.166-05:00","updated":"2025-07-07T17:32:42.420-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Finding point estimators.md","permalink":"/math-stats-2/finding-point-estimators/","created":"2025-02-06T11:49:38.166-05:00","updated":"2025-07-07T17:32:42.420-04:00"}
 ---
 
 We have seen that it is perfectly possible for there to be more than  

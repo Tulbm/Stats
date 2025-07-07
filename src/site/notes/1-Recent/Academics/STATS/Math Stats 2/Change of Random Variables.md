@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/change-of-random-variables/","created":"2025-01-21T11:32:22.774-05:00","updated":"2025-07-07T17:32:42.363-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Change of Random Variables.md","permalink":"/math-stats-2/change-of-random-variables/","created":"2025-01-21T11:32:22.774-05:00","updated":"2025-07-07T17:32:42.363-04:00"}
 ---
 
 Regarding a random variable $Y$ that is a function of $X_{i}'s$

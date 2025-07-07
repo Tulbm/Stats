@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/critical-region/","created":"2025-03-04T19:56:58.135-05:00","updated":"2025-07-07T17:32:42.373-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Critical Region.md","permalink":"/math-stats-2/critical-region/","created":"2025-03-04T19:56:58.135-05:00","updated":"2025-07-07T17:32:42.373-04:00"}
 ---
 
 The test procedure partitions the sample space into an acceptance region and a rejection/critical region for $H_{0}$

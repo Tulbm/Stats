@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/simple-linear-regression/","created":"2024-04-05T13:32:30.615-04:00","updated":"2025-07-07T17:21:02.478-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Simple Linear Regression.md","permalink":"/intro-to-stats/simple-linear-regression/","created":"2024-04-05T13:32:30.615-04:00","updated":"2025-07-07T17:21:02.478-04:00"}
 ---
 
 - explores a possible linear relationship between two quantitative variables 

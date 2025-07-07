@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/test-of-k-proportions/","created":"2025-03-29T01:59:39.920-04:00","updated":"2025-07-07T17:32:42.539-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Test of k proportions.md","permalink":"/math-stats-2/test-of-k-proportions/","created":"2025-03-29T01:59:39.920-04:00","updated":"2025-07-07T17:32:42.539-04:00"}
 ---
 
 the chi-squared test of a single proportion is the square of the z-test

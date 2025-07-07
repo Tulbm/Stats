@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/cheatsheets/3110-final-cheat-sheet/","created":"2025-07-07T16:19:57.604-04:00","updated":"2025-07-07T17:15:12.047-04:00"}
+{"dg-publish":true,"dg-path":"Cheatsheets/3110 Final Cheat Sheet.md","permalink":"/cheatsheets/3110-final-cheat-sheet/","created":"2025-07-07T16:19:57.604-04:00","updated":"2025-07-07T17:15:12.047-04:00"}
 ---
 
 $$\begin{align}\text{Change of variables} \quad  & \text{Distribution function technique} \\

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/cramer-rao-inequality/","created":"2025-01-28T12:43:40.368-05:00","updated":"2025-07-07T17:32:42.397-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Cramér-Rao inequality.md","permalink":"/math-stats-2/cramer-rao-inequality/","created":"2025-01-28T12:43:40.368-05:00","updated":"2025-07-07T17:32:42.397-04:00"}
 ---
 
 If $\hat{\theta}$ is an [[1-Recent/Academics/STATS/Math Stats 2/Unbiasedness\|unbiased]] estimator of the parameter $\theta$, then the variance of $\hat{\theta}$ must satisfy the inequality

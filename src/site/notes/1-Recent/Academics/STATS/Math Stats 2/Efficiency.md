@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/efficiency/","created":"2025-01-28T12:26:52.574-05:00","updated":"2025-07-07T17:32:42.432-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Efficiency.md","permalink":"/math-stats-2/efficiency/","created":"2025-01-28T12:26:52.574-05:00","updated":"2025-07-07T17:32:42.432-04:00"}
 ---
 
 Suppose $\hat{\theta}_{1}$ and $\hat{\theta}_{2}$ are two [[1-Recent/Academics/STATS/Math Stats 2/Unbiasedness\|unbiased]] [[1-Recent/Academics/STATS/Math Stats 2/Point Estimation\|estimator]] of a given populations' parameter $\theta$ 

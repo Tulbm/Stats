@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/method-of-moments-mm/","created":"2025-02-06T12:23:45.310-05:00","updated":"2025-07-07T17:32:42.499-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Method of moments (MM).md","permalink":"/math-stats-2/method-of-moments-mm/","created":"2025-02-06T12:23:45.310-05:00","updated":"2025-07-07T17:32:42.499-04:00"}
 ---
 
 Also called the substitution method

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/descriptive-statistics/","created":"2024-01-17T13:34:35.650-05:00","updated":"2025-07-07T17:21:02.302-04:00"}
+{"dg-publish":true,"dg-path":"Intro to Stats/Descriptive Statistics.md","permalink":"/intro-to-stats/descriptive-statistics/","created":"2024-01-17T13:34:35.650-05:00","updated":"2025-07-07T17:21:02.302-04:00"}
 ---
 
 ## Categorical Variables

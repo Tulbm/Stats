@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/test-of-difference-between-means/","created":"2025-03-21T20:05:06.719-04:00","updated":"2025-07-07T17:32:42.546-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Test of difference between means.md","permalink":"/math-stats-2/test-of-difference-between-means/","created":"2025-03-21T20:05:06.719-04:00","updated":"2025-07-07T17:32:42.546-04:00"}
 ---
 
 Let X1, · · · , Xn1 be a random sample from a N (μ1, σ2 1 ) distribution  and Y1, · · · , Yn2 be a random sample from a N (μ2, σ2  2 ) distribution.

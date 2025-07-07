@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/order-statistics/","created":"2025-01-21T12:20:50.585-05:00","updated":"2025-07-07T17:32:42.490-04:00"}
+{"dg-publish":true,"dg-path":"Math Stats 2/Order Statistics.md","permalink":"/math-stats-2/order-statistics/","created":"2025-01-21T12:20:50.585-05:00","updated":"2025-07-07T17:32:42.490-04:00"}
 ---
 
 Suppose $X_{1},\dots,X_{n}$ is a random sample of size $n$ from an infinite population with a continuous pdf. If we arrange the values in ascending order and 
