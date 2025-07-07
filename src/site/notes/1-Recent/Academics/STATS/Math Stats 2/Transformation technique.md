@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Transformation technique.md","permalink":"/math-stats-2/transformation-technique/","created":"2025-01-21T11:33:51.194-05:00","updated":"2025-07-07T17:32:42.562-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/transformation-technique/","created":"2025-01-21T11:33:51.194-05:00","updated":"2025-07-07T17:32:42.562-04:00"}
 ---
 
 - for continuous random variables only

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Hypothesis Testing.md","permalink":"/intro-to-stats/hypothesis-testing/","created":"2024-03-04T14:06:57.970-05:00","updated":"2025-07-07T17:21:02.284-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/hypothesis-testing/","created":"2024-03-04T14:06:57.970-05:00","updated":"2025-07-07T17:21:02.284-04:00"}
 ---
 
 Testing a [[1-Recent/Academics/STATS/Intro to Stats/Hypothesis Types\|statistical hypothesis]]. If the conjecture is false then the complementary hypothesis must be true

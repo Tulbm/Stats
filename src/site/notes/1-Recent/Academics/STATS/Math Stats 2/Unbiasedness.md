@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Unbiasedness.md","permalink":"/math-stats-2/unbiasedness/","created":"2025-01-28T12:25:37.931-05:00","updated":"2025-07-07T17:32:42.573-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/unbiasedness/","created":"2025-01-28T12:25:37.931-05:00","updated":"2025-07-07T17:32:42.573-04:00"}
 ---
 
 We say $\hat{\theta}$ is an unbiased [[1-Recent/Academics/STATS/Math Stats 2/Point Estimation\|estimator]] of $\theta$ iff 

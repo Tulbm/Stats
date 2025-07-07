@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Bernoulli Trials.md","permalink":"/intro-to-stats/bernoulli-trials/","created":"2024-04-01T23:52:50.164-04:00","updated":"2025-07-07T17:21:02.187-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/bernoulli-trials/","created":"2024-04-01T23:52:50.164-04:00","updated":"2025-07-07T17:21:02.187-04:00"}
 ---
 
 - trials independent trials

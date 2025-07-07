@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Bayesian estimation.md","permalink":"/math-stats-2/bayesian-estimation/","created":"2025-02-11T12:24:21.818-05:00","updated":"2025-07-07T17:32:42.403-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/bayesian-estimation/","created":"2025-02-11T12:24:21.818-05:00","updated":"2025-07-07T17:32:42.403-04:00"}
 ---
 
 Based upon the view of probability as a 'degree of belief', we consider the parameter $\theta$ to be a random variable that follows a distribution. We make an assumption about the distribution that the $\theta$ follows before we see the data. This distribution is called the **prior distribution**. We denote the prior probability distribution function of $\theta$ by $g(\theta)$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Goodness of fit test.md","permalink":"/math-stats-2/goodness-of-fit-test/","created":"2025-04-02T14:16:41.034-04:00","updated":"2025-07-07T17:32:42.436-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/math-stats-2/goodness-of-fit-test/","created":"2025-04-02T14:16:41.034-04:00","updated":"2025-07-07T17:32:42.436-04:00"}
 ---
 
 Used to test how well a proposed model (distribution) fits the observed data. The $\chi^2$ [[1-Recent/Academics/STATS/Intro to Stats/Chi-Squared Test\|Chi-Squared Test]] is often a common choice for carrying out a goodness-of-fit test

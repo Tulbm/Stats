@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Hypothesis Types.md","permalink":"/intro-to-stats/hypothesis-types/","created":"2024-04-01T17:14:52.845-04:00","updated":"2025-07-07T17:21:02.314-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/hypothesis-types/","created":"2024-04-01T17:14:52.845-04:00","updated":"2025-07-07T17:21:02.314-04:00"}
 ---
 
 A **statistical hypothesis** is a statement about the population/its distribution

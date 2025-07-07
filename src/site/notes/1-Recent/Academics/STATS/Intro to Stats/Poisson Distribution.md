@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Poisson Distribution.md","permalink":"/intro-to-stats/poisson-distribution/","created":"2024-03-29T19:02:16.630-04:00","updated":"2025-07-07T17:21:02.500-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/poisson-distribution/","created":"2024-03-29T19:02:16.630-04:00","updated":"2025-07-07T17:21:02.500-04:00"}
 ---
 
 # Properties

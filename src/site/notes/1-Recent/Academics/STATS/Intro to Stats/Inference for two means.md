@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Inference for two means.md","permalink":"/intro-to-stats/inference-for-two-means/","created":"2024-03-15T13:44:53.549-04:00","updated":"2025-07-07T17:21:02.327-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/inference-for-two-means/","created":"2024-03-15T13:44:53.549-04:00","updated":"2025-07-07T17:21:02.327-04:00"}
 ---
 
 - [[1-Recent/Academics/STATS/Intro to Stats/Sampling Distributions\|Sampling distribution]] of the difference in sample means

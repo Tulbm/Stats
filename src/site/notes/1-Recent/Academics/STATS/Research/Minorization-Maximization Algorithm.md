@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Research/Minorization-Maximization Algorithm.md","permalink":"/research/minorization-maximization-algorithm/","created":"2025-06-03T18:32:39.445-04:00","updated":"2025-07-07T17:32:53.509-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/research/minorization-maximization-algorithm/","created":"2025-06-03T18:32:39.445-04:00","updated":"2025-07-07T17:32:53.509-04:00"}
 ---
 
 

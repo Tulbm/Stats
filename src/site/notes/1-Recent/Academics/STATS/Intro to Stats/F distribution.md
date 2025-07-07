@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/F distribution.md","permalink":"/intro-to-stats/f-distribution/","created":"2024-03-25T13:53:55.514-04:00","updated":"2025-07-07T17:21:02.337-04:00"}
+{"dg-publish":true,"permalink":"/1-recent/academics/stats/intro-to-stats/f-distribution/","created":"2024-03-25T13:53:55.514-04:00","updated":"2025-07-07T17:21:02.337-04:00"}
 ---
 
 - $F$ distribution
