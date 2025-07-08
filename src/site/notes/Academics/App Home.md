@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"App Home.md","permalink":"/app-home/","tags":["gardenEntry"],"created":"2025-07-07T17:35:27.076-04:00","updated":"2025-07-08T11:19:56.264-04:00"}
+{"dg-publish":true,"dg-path":"App Home.md","permalink":"/app-home/","tags":["gardenEntry"],"created":"2025-07-07T17:35:27.076-04:00","updated":"2025-07-08T11:33:48.388-04:00"}
 ---
 
 Best notes are 3100 and 3110, the ones from 2040 (intro to stats) are pretty old and in a weird format, I'll mess with them as I go back there.
@@ -16,6 +16,9 @@ Just ping me `@Tulbm`, it's probably just missing a newline but renders fine for
 
 # [[Academics/STATS/Math Stats 1/Chapter Guide\|Stat 3100 Chapter Guide]]
 
+[[Academics/STATS/Cheatsheets/3100 Cheat Sheet\|3100 Cheat Sheet]]
 # [[Academics/STATS/Math Stats 2/Chapter Guide\|Stat 3110 Chapter Guide]]
 
+[[Academics/STATS/Cheatsheets/3110 Midterm Cheat Sheet\|3110 Midterm Cheat Sheet]]
+[[Academics/STATS/Cheatsheets/3110 Final Cheat Sheet\|3110 Final Cheat Sheet]]
 
