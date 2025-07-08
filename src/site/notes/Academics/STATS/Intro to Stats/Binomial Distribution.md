@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Binomial Distribution.md","permalink":"/stats/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-08T17:28:01.811-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Binomial Distribution.md","permalink":"/stats/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-08T17:35:24.128-04:00"}
 ---
 
 # Interpretation
@@ -27,7 +27,7 @@ where $n$ represents the number of total trials, $p$ the probability of "success
 - $p^x(1-p)^{n-x}$ represents the probability of a specific ordering of $x$ successes and $n-x$ failures
 - $\begin{pmatrix}   n\\   x   \end{pmatrix}$ represents number of ways it can happen
 
-Mean
+Mean 
 $$\begin{align}
 E(X) & =\sum_{x}xf(x) \\
  & =\sum_{x=0}^n x {n\choose x}p^x(1-p)^{n-x} \\
