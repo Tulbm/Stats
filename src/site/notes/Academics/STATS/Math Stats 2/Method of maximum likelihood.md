@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Method of maximum likelihood.md","permalink":"/stats/math-stats-2/method-of-maximum-likelihood/","created":"2025-02-06T12:23:56.555-05:00","updated":"2025-07-07T17:32:42.503-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Method of maximum likelihood.md","permalink":"/stats/math-stats-2/method-of-maximum-likelihood/","created":"2025-02-06T12:23:56.555-05:00","updated":"2025-07-08T17:34:41.561-04:00"}
 ---
 
 Finds a value for $\theta$ such that it gives the maximum probability of observing the observed data in comparison to other values of $\theta$
@@ -73,7 +73,7 @@ l(\mu,\sigma^2) & = - \frac{n}{2} \ln(2\pi \sigma^2)- \frac{1}{2\sigma^2} \sum (
 \frac{\partial l}{\partial \sigma^2 } & = - \frac{n}{2\sigma^2}+ \frac{\sum(x_{i-\mu})^2}{2(\sigma^2)^2}= \frac{-n\sigma^2+\sum(x_{i}-\mu)^2}{2(\sigma^2)^2} = 0 \to \hat{\sigma}^2= \sum \frac{(x_{i}-\mu)^2}{n} \\
  & \text{ using }\hat{\mu}=\bar{X}, \text{ we have } \sigma^2= \frac{1}{n} \sum (x_{i}-\bar{X})^2
 \end{align}
-$$
+$$ 
 $$
 \text{if} \begin{bmatrix}
 \frac{\partial^2 l }{\partial \mu^2} & \frac{\partial
@@ -84,6 +84,7 @@ $$
  l}{\partial (\sigma^2 )^2}
 \end{bmatrix} < 0, \text{ then our} \hat{\mu}, \hat{\sigma}^2 \text{ are MLEs of }\mu, \sigma^2
 $$
+
 Then the MLE of $\mu^2: \hat{\mu}^2=g_{1}(\hat{\mu})=g_{1}(\bar{x})=\bar{X}^2$
 And the MLE of $\sigma: \hat{\sigma}=g_{2}(\hat{\sigma}^2)=\sqrt{ \frac{1}{n} \sum (x_{i}-\bar{X})^2 }$
 
