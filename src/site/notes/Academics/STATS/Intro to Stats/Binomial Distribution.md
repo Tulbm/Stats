@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Binomial Distribution.md","permalink":"/stats/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-08T17:37:58.948-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Binomial Distribution.md","permalink":"/stats/intro-to-stats/binomial-distribution/","created":"2024-03-29T19:02:31.902-04:00","updated":"2025-07-08T17:42:33.139-04:00"}
 ---
 
 # Interpretation
@@ -37,7 +37,10 @@ E(X) & =\sum_{x}xf(x) \\
  & = np \sum_{x=1}^n Bin(n-1,p) \\
  \mu& =np\cdot1 = np
 \end{align}
-$$Variance
+$$
+
+Variance 
+
 $$
 Var(X)=np(1-p)
 $$If $X$ represents the number of successes in $n$ trials, then $Y=\frac{X}{n}$ represents the [[Academics/STATS/Intro to Stats/Sample Proportion\|Sample Proportion]] of successes
