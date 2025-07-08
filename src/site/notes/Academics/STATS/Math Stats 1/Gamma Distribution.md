@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T11:12:02.260-04:00"}
+{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T11:23:23.571-04:00"}
 ---
 
 # Probability Density Function
@@ -19,7 +19,8 @@ where $\alpha>0$ and $B>0$ and $\Gamma(\alpha)$ is the [[Academics/STATS/Math St
  & = \frac{1}{\Gamma(\alpha)} \Gamma(\alpha) \\
  & =1
 \end{align}
-$$Mean
+$$
+Mean
 $$\begin{align}
 \mu=E(X) & =\int_{0}^\infty x \frac{1}{\beta^\alpha \Gamma(\alpha)}x^{\alpha-1}e^{-x/\beta}dx \\
  & =\frac{1}{\beta^\alpha \Gamma(\alpha)}\int_{0}^\infty x^{\alpha+1-1} e^{-x/\beta} \\
