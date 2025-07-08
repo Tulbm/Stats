@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/applications-of-partial-derivatives/","created":"2024-10-30T13:05:06.796-04:00","updated":"2025-07-08T11:02:45.879-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Applications of Partial Derivatives.md","permalink":"/math/adv-calc/applications-of-partial-derivatives/","created":"2024-10-30T13:05:06.796-04:00","updated":"2025-07-08T11:02:45.879-04:00"}
 ---
 
 # Critical points 

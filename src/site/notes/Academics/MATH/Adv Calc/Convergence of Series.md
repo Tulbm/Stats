@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/convergence-of-series/","created":"2024-09-13T12:57:13.927-04:00","updated":"2025-07-08T11:02:45.897-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Convergence of Series.md","permalink":"/math/adv-calc/convergence-of-series/","created":"2024-09-13T12:57:13.927-04:00","updated":"2025-07-08T11:02:45.897-04:00"}
 ---
 
 Checking convergence of a series comes down to

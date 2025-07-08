@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/directional-derivatives/","created":"2024-10-25T12:54:42.642-04:00","updated":"2025-07-08T11:02:45.915-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Directional Derivatives.md","permalink":"/math/adv-calc/directional-derivatives/","created":"2024-10-25T12:54:42.642-04:00","updated":"2025-07-08T11:02:45.915-04:00"}
 ---
 
 Normal derivatives are taken with respect to one variable, i.e. going along its axis

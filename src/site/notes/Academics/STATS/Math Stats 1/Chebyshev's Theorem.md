@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/chebyshev-s-theorem/","created":"2024-11-19T16:09:32.150-05:00","updated":"2025-07-07T18:02:31.278-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Chebyshev's Theorem.md","permalink":"/stats/math-stats-1/chebyshev-s-theorem/","created":"2024-11-19T16:09:32.150-05:00","updated":"2025-07-07T18:02:31.278-04:00"}
 ---
 
 or Tchebysheff's Theorem

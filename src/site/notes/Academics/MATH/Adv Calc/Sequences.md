@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/sequences/","created":"2024-09-06T12:53:23.940-04:00","updated":"2025-07-08T11:02:45.990-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Sequences.md","permalink":"/math/adv-calc/sequences/","created":"2024-09-06T12:53:23.940-04:00","updated":"2025-07-08T11:02:45.990-04:00"}
 ---
 
 Any ordered list of numbers

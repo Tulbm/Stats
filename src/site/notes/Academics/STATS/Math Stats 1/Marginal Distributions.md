@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/marginal-distributions/","created":"2024-10-22T16:04:21.436-04:00","updated":"2025-07-07T18:02:31.379-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Marginal Distributions.md","permalink":"/stats/math-stats-1/marginal-distributions/","created":"2024-10-22T16:04:21.436-04:00","updated":"2025-07-07T18:02:31.379-04:00"}
 ---
 
 # Discrete

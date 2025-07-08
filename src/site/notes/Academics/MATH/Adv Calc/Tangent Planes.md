@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/tangent-planes/","created":"2024-10-16T13:01:10.740-04:00","updated":"2025-07-08T11:02:46.006-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Tangent Planes.md","permalink":"/math/adv-calc/tangent-planes/","created":"2024-10-16T13:01:10.740-04:00","updated":"2025-07-08T11:02:46.006-04:00"}
 ---
 
 A collection of all possible tangent lines to the surface of a multivariable function at a point $(a,b,f(a,b))$ 

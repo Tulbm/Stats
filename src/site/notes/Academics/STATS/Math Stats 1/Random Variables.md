@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/random-variables/","created":"2024-10-03T16:59:53.445-04:00","updated":"2025-07-07T18:02:31.436-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Random Variables.md","permalink":"/stats/math-stats-1/random-variables/","created":"2024-10-03T16:59:53.445-04:00","updated":"2025-07-07T18:02:31.436-04:00"}
 ---
 
 A random variable X is a function that maps the sample space $S$ to the real line; 

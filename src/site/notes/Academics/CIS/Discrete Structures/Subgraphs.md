@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/subgraphs/","created":"2024-03-28T16:31:01.812-04:00","updated":"2025-07-08T10:47:55.471-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Subgraphs.md","permalink":"/cis/discrete-structures/subgraphs/","created":"2024-03-28T16:31:01.812-04:00","updated":"2025-07-08T10:47:55.471-04:00"}
 ---
 
 - Let $G= ( V, E)$ be a graph.

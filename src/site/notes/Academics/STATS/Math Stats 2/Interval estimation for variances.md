@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/interval-estimation-for-variances/","created":"2025-02-27T20:01:29.141-05:00","updated":"2025-07-07T17:32:42.454-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Interval estimation for variances.md","permalink":"/stats/math-stats-2/interval-estimation-for-variances/","created":"2025-02-27T20:01:29.141-05:00","updated":"2025-07-07T17:32:42.454-04:00"}
 ---
 
 

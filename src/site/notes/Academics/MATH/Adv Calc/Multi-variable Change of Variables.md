@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/multi-variable-change-of-variables/","created":"2024-12-08T15:40:57.314-05:00","updated":"2025-07-08T11:19:56.248-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Multi-variable Change of Variables.md","permalink":"/math/adv-calc/multi-variable-change-of-variables/","created":"2024-12-08T15:40:57.314-05:00","updated":"2025-07-08T11:19:56.248-04:00"}
 ---
 
 Using the transformation $T$ to go from variables $(f(x),f(y))$ to something simpler to integrate in the form $(u,v)$

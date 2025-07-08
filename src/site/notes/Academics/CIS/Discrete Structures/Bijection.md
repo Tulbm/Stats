@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/bijection/","created":"2024-09-12T16:10:17.881-04:00","updated":"2025-07-08T10:47:55.264-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Bijection.md","permalink":"/cis/discrete-structures/bijection/","created":"2024-09-12T16:10:17.881-04:00","updated":"2025-07-08T10:47:55.264-04:00"}
 ---
 
 # Proof by Bijection

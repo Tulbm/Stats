@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/test-of-variances/","created":"2025-03-21T20:05:06.616-04:00","updated":"2025-07-07T17:32:42.555-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Test of Variances.md","permalink":"/stats/math-stats-2/test-of-variances/","created":"2025-03-21T20:05:06.616-04:00","updated":"2025-07-07T17:32:42.555-04:00"}
 ---
 
 Given a random sample $X_{1},\dots,X_{n}\sim N(\mu,\sigma^2)$, we want to test if $\sigma^2 = \sigma_{0}^2$ or not at an $\alpha$ significance level

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/solutions-to-first-order-d-es/","created":"2024-09-13T14:37:39.942-04:00","updated":"2025-07-08T11:02:52.830-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Solutions to First-Order DEs.md","permalink":"/math/differential-equations/solutions-to-first-order-d-es/","created":"2024-09-13T14:37:39.942-04:00","updated":"2025-07-08T11:02:52.830-04:00"}
 ---
 
 [[Academics/MATH/Differential Equations/Solution to DEs\|Solution to DEs]] specifically for first order

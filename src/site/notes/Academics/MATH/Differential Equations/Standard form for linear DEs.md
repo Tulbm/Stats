@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/standard-form-for-linear-d-es/","created":"2024-10-19T13:00:20.165-04:00","updated":"2025-07-08T11:02:52.867-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Standard form for linear DEs.md","permalink":"/math/differential-equations/standard-form-for-linear-d-es/","created":"2024-10-19T13:00:20.165-04:00","updated":"2025-07-08T11:02:52.867-04:00"}
 ---
 
 # Standard form for linear DEs

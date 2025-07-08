@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/reduction-of-order/","created":"2024-10-11T15:13:55.176-04:00","updated":"2025-07-08T11:02:52.819-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Reduction of Order.md","permalink":"/math/differential-equations/reduction-of-order/","created":"2024-10-11T15:13:55.176-04:00","updated":"2025-07-08T11:02:52.819-04:00"}
 ---
 
 Already knowing one solution to the second-order DE:

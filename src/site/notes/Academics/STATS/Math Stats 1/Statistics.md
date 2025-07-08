@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/statistics/","created":"2024-09-05T16:30:43.940-04:00","updated":"2025-07-07T18:02:31.450-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Statistics.md","permalink":"/stats/math-stats-1/statistics/","created":"2024-09-05T16:30:43.940-04:00","updated":"2025-07-07T18:02:31.450-04:00"}
 ---
 
 Referred as a study involving

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/chapter-guide/","created":"2025-07-08T10:36:37.655-04:00","updated":"2025-07-08T11:01:39.675-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Chapter Guide.md","permalink":"/stats/math-stats-2/chapter-guide/","created":"2025-07-08T10:36:37.655-04:00","updated":"2025-07-08T11:01:39.675-04:00"}
 ---
 
 # 1 - Review of Probability and Distributions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/graph-theory/isomorphism/","created":"2024-03-28T15:13:16.961-04:00","updated":"2025-07-08T10:47:55.378-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Graph Theory/Isomorphism.md","permalink":"/cis/discrete-structures/graph-theory/isomorphism/","created":"2024-03-28T15:13:16.961-04:00","updated":"2025-07-08T10:47:55.378-04:00"}
 ---
 
 ### Definition

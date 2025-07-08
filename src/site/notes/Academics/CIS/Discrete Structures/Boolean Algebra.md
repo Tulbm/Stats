@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/boolean-algebra/","created":"2023-10-16T16:37:01.501-04:00","updated":"2025-07-08T10:47:55.306-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Boolean Algebra.md","permalink":"/cis/discrete-structures/boolean-algebra/","created":"2023-10-16T16:37:01.501-04:00","updated":"2025-07-08T10:47:55.306-04:00"}
 ---
 
 ## Boolean Algebra

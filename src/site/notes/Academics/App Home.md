@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/app-home/","tags":["gardenEntry"],"created":"2025-07-07T17:35:27.076-04:00","updated":"2025-07-08T11:19:56.264-04:00"}
+{"dg-publish":true,"dg-path":"App Home.md","permalink":"/app-home/","tags":["gardenEntry"],"created":"2025-07-07T17:35:27.076-04:00","updated":"2025-07-08T11:19:56.264-04:00"}
 ---
 
 Best notes are 3100 and 3110, the ones from 2040 (intro to stats) are pretty old and in a weird format, I'll mess with them as I go back there.

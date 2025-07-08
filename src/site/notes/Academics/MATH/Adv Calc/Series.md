@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/series/","created":"2024-09-11T12:58:26.689-04:00","updated":"2025-07-08T11:02:45.999-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Series.md","permalink":"/math/adv-calc/series/","created":"2024-09-11T12:58:26.689-04:00","updated":"2025-07-08T11:02:45.999-04:00"}
 ---
 
  A series is the sum of the elements in a (in)finite sequence

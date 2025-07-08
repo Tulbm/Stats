@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/exact-equations/","created":"2024-10-04T14:46:56.993-04:00","updated":"2025-07-08T11:02:52.773-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Exact Equations.md","permalink":"/math/differential-equations/exact-equations/","created":"2024-10-04T14:46:56.993-04:00","updated":"2025-07-08T11:02:52.773-04:00"}
 ---
 
 # Exact Equations

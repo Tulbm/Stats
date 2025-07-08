@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/coefficient-of-determination/","created":"2024-04-18T20:31:33.879-04:00","updated":"2025-07-07T17:21:02.254-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Coefficient of Determination.md","permalink":"/stats/intro-to-stats/coefficient-of-determination/","created":"2024-04-18T20:31:33.879-04:00","updated":"2025-07-07T17:21:02.254-04:00"}
 ---
 
 ## Coefficient of Determination

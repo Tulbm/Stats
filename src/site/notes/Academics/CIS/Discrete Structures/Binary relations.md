@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/binary-relations/","created":"2023-11-21T10:21:28.384-05:00","updated":"2025-07-08T10:47:55.291-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Binary relations.md","permalink":"/cis/discrete-structures/binary-relations/","created":"2023-11-21T10:21:28.384-05:00","updated":"2025-07-08T10:47:55.291-04:00"}
 ---
 
 ## Definition

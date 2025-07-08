@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/multi-variable-functions/","created":"2024-04-10T19:04:20.730-04:00","updated":"2025-07-08T11:19:56.258-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Multi-variable Functions.md","permalink":"/math/adv-calc/multi-variable-functions/","created":"2024-04-10T19:04:20.730-04:00","updated":"2025-07-08T11:19:56.258-04:00"}
 ---
 
 [[Academics/CIS/Discrete Structures/Functions\|Academics/CIS/Discrete Structures/Functions]]

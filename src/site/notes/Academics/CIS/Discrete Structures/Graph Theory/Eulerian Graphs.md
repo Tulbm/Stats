@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/graph-theory/eulerian-graphs/","created":"2024-04-02T16:57:51.500-04:00","updated":"2025-07-08T10:47:55.328-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Graph Theory/Eulerian Graphs.md","permalink":"/cis/discrete-structures/graph-theory/eulerian-graphs/","created":"2024-04-02T16:57:51.500-04:00","updated":"2025-07-08T10:47:55.328-04:00"}
 ---
 
 A graph that has an Euler Tour

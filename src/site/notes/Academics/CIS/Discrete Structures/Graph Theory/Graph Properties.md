@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/graph-theory/graph-properties/","created":"2024-03-26T16:09:19.812-04:00","updated":"2025-07-08T10:47:55.362-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Graph Theory/Graph Properties.md","permalink":"/cis/discrete-structures/graph-theory/graph-properties/","created":"2024-03-26T16:09:19.812-04:00","updated":"2025-07-08T10:47:55.362-04:00"}
 ---
 
 Let $G=(V,E)$ be a graph 

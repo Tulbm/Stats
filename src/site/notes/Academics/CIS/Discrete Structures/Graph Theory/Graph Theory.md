@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/graph-theory/graph-theory/","created":"2024-03-21T16:44:23.460-04:00","updated":"2025-07-08T10:47:55.353-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Graph Theory/Graph Theory.md","permalink":"/cis/discrete-structures/graph-theory/graph-theory/","created":"2024-03-21T16:44:23.460-04:00","updated":"2025-07-08T10:47:55.353-04:00"}
 ---
 
 let $G=(V,E)$ be a graph

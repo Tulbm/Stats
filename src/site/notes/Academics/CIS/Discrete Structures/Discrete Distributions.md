@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/discrete-distributions/","created":"2024-03-29T19:13:31.371-04:00","updated":"2025-07-08T10:47:55.409-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Discrete Distributions.md","permalink":"/cis/discrete-structures/discrete-distributions/","created":"2024-03-29T19:13:31.371-04:00","updated":"2025-07-08T10:47:55.409-04:00"}
 ---
 
 # [[Academics/STATS/Math Stats 1/Discrete Uniform Distribution\|Discrete Uniform Distribution]]

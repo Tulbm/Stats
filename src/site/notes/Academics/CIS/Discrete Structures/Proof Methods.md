@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/proof-methods/","created":"2023-11-06T23:13:30.055-05:00","updated":"2025-07-08T10:47:55.483-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Proof Methods.md","permalink":"/cis/discrete-structures/proof-methods/","created":"2023-11-06T23:13:30.055-05:00","updated":"2025-07-08T10:47:55.483-04:00"}
 ---
 
 ## Logical reasoning

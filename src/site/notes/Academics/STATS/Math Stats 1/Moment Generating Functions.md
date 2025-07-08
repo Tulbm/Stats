@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/moment-generating-functions/","created":"2024-11-19T16:18:35.086-05:00","updated":"2025-07-08T11:15:05.301-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Moment Generating Functions.md","permalink":"/stats/math-stats-1/moment-generating-functions/","created":"2024-11-19T16:18:35.086-05:00","updated":"2025-07-08T11:15:05.301-04:00"}
 ---
 
 

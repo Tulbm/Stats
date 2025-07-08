@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/research/gaussian-finite-mixture-model/","created":"2025-05-11T20:49:04.999-04:00","updated":"2025-07-07T17:32:53.473-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Research/Gaussian Finite Mixture Model.md","permalink":"/stats/research/gaussian-finite-mixture-model/","created":"2025-05-11T20:49:04.999-04:00","updated":"2025-07-07T17:32:53.473-04:00"}
 ---
 
 - model based clustering method

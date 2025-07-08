@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/linear-d-es/","created":"2024-09-09T15:02:27.087-04:00","updated":"2025-07-08T11:02:52.808-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Linear DEs.md","permalink":"/math/differential-equations/linear-d-es/","created":"2024-09-09T15:02:27.087-04:00","updated":"2025-07-08T11:02:52.808-04:00"}
 ---
 
 DEs where the dependent variable appears "linearly"

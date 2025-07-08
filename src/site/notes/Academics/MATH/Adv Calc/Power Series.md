@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/power-series/","created":"2024-09-25T12:59:56.784-04:00","updated":"2025-07-08T11:02:45.981-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Power Series.md","permalink":"/math/adv-calc/power-series/","created":"2024-09-25T12:59:56.784-04:00","updated":"2025-07-08T11:02:45.981-04:00"}
 ---
 
 A series

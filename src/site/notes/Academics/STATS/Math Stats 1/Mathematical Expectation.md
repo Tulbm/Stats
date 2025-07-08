@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/mathematical-expectation/","created":"2024-10-29T15:59:59.809-04:00","updated":"2025-07-07T18:02:31.356-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Mathematical Expectation.md","permalink":"/stats/math-stats-1/mathematical-expectation/","created":"2024-10-29T15:59:59.809-04:00","updated":"2025-07-07T18:02:31.356-04:00"}
 ---
 
 # Discrete case

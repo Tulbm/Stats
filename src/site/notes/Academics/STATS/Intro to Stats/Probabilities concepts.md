@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/probabilities-concepts/","created":"2024-01-24T13:35:03.953-05:00","updated":"2025-07-07T17:28:36.585-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Probabilities concepts.md","permalink":"/stats/intro-to-stats/probabilities-concepts/","created":"2024-01-24T13:35:03.953-05:00","updated":"2025-07-07T17:28:36.585-04:00"}
 ---
 
 The [[Academics/CIS/Discrete Structures/Probability\|Probability]] of an outcome is the proportion of times that outcome would occur in an infinite series of trials

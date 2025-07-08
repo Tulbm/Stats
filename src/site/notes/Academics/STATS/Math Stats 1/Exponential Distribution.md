@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/exponential-distribution/","created":"2024-11-26T16:45:05.234-05:00","updated":"2025-07-07T18:02:31.325-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Exponential Distribution.md","permalink":"/stats/math-stats-1/exponential-distribution/","created":"2024-11-26T16:45:05.234-05:00","updated":"2025-07-07T18:02:31.325-04:00"}
 ---
 
 A random variable $X$ has a exponential distribution $X\sim Exp(\theta)$ if and only if it has the pdf

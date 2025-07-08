@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/trees/","created":"2024-04-02T17:08:47.885-04:00","updated":"2025-07-08T10:47:55.492-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Trees.md","permalink":"/cis/discrete-structures/trees/","created":"2024-04-02T17:08:47.885-04:00","updated":"2025-07-08T10:47:55.492-04:00"}
 ---
 
 a connected [[Academics/CIS/Discrete Structures/Graph Theory/Graph Theory\|graph]] with no cycles

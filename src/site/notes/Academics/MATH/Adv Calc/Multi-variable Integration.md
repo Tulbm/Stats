@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/multi-variable-integration/","created":"2024-11-11T12:52:18.895-05:00","updated":"2025-07-08T11:02:45.952-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Multi-variable Integration.md","permalink":"/math/adv-calc/multi-variable-integration/","created":"2024-11-11T12:52:18.895-05:00","updated":"2025-07-08T11:02:45.952-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/graph-theory/graph-walks/","created":"2024-03-31T11:55:05.318-04:00","updated":"2025-07-08T10:47:55.336-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Graph Theory/Graph Walks.md","permalink":"/cis/discrete-structures/graph-theory/graph-walks/","created":"2024-03-31T11:55:05.318-04:00","updated":"2025-07-08T10:47:55.336-04:00"}
 ---
 
 Let $G= ( V, E)$ be a graph.

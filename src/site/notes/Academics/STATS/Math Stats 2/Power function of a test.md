@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/power-function-of-a-test/","created":"2025-03-11T19:13:49.281-04:00","updated":"2025-07-07T17:32:42.530-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Power function of a test.md","permalink":"/stats/math-stats-2/power-function-of-a-test/","created":"2025-03-11T19:13:49.281-04:00","updated":"2025-07-07T17:32:42.530-04:00"}
 ---
 
 The power function of a [[Academics/STATS/Math Stats 2/Test function\|test]] of $H_{0}: \theta \in \Theta_{0}$ against $H_{a}: \theta \in \Theta_{1}$

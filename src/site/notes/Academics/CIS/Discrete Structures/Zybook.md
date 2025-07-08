@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/zybook/","created":"2023-09-16T22:34:09.024-04:00","updated":"2025-07-08T10:47:55.461-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Zybook.md","permalink":"/cis/discrete-structures/zybook/","created":"2023-09-16T22:34:09.024-04:00","updated":"2025-07-08T10:47:55.461-04:00"}
 ---
 
 ## Strings

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/combinatorial-methods/","created":"2024-03-29T19:10:34.066-04:00","updated":"2025-07-07T17:28:36.579-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Combinatorial methods.md","permalink":"/stats/intro-to-stats/combinatorial-methods/","created":"2024-03-29T19:10:34.066-04:00","updated":"2025-07-07T17:28:36.579-04:00"}
 ---
 
 In [[Academics/CIS/Discrete Structures/Probability\|Probability]] and [[Academics/STATS/Math Stats 1/Statistics\|Statistics]], it is an important first step to determine all the possible outcomes of an experiment using [[Academics/CIS/Discrete Structures/Counting\|Counting]] and [[Academics/MATH/Number Theory/Combinatorial Number Theory\|Combinatorial Number Theory]] methods

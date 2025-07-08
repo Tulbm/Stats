@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/multinomial-distribution/","created":"2025-03-29T01:59:40.034-04:00","updated":"2025-07-07T17:32:42.480-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Multinomial Distribution.md","permalink":"/stats/math-stats-2/multinomial-distribution/","created":"2025-03-29T01:59:40.034-04:00","updated":"2025-07-07T17:32:42.480-04:00"}
 ---
 
 $$

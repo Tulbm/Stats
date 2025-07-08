@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/differential-equations/","created":"2024-09-06T15:04:34.343-04:00","updated":"2025-07-08T11:02:52.748-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Differential Equations.md","permalink":"/math/differential-equations/differential-equations/","created":"2024-09-06T15:04:34.343-04:00","updated":"2025-07-08T11:02:52.748-04:00"}
 ---
 
 An equation that provides a relationship between a function and its derivatives with respect to 1+ variables

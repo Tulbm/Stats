@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/test-statistics/","created":"2024-04-03T13:37:20.516-04:00","updated":"2025-07-07T17:21:02.512-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Test Statistics.md","permalink":"/stats/intro-to-stats/test-statistics/","created":"2024-04-03T13:37:20.516-04:00","updated":"2025-07-07T17:21:02.512-04:00"}
 ---
 
 # Z test

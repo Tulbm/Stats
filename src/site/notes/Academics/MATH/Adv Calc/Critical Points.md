@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/critical-points/","created":"2024-11-01T12:51:02.143-04:00","updated":"2025-07-08T11:02:45.866-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Critical Points.md","permalink":"/math/adv-calc/critical-points/","created":"2024-11-01T12:51:02.143-04:00","updated":"2025-07-08T11:02:45.866-04:00"}
 ---
 
 The critical point can be a maximum, minimum or neither

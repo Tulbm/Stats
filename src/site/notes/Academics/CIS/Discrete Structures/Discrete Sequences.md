@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/discrete-sequences/","created":"2024-01-10T14:30:52.450-05:00","updated":"2025-07-08T10:47:55.390-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Discrete Sequences.md","permalink":"/cis/discrete-structures/discrete-sequences/","created":"2024-01-10T14:30:52.450-05:00","updated":"2025-07-08T10:47:55.390-04:00"}
 ---
 
 ## Sequences

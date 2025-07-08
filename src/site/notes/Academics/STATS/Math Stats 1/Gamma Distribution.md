@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T11:23:23.571-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Gamma Distribution.md","permalink":"/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T11:23:23.571-04:00"}
 ---
 
 # Probability Density Function

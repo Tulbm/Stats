@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/summation-notation/","created":"2024-03-27T16:06:09.433-04:00","updated":"2025-07-08T10:47:55.444-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Summation Notation.md","permalink":"/cis/discrete-structures/summation-notation/","created":"2024-03-27T16:06:09.433-04:00","updated":"2025-07-08T10:47:55.444-04:00"}
 ---
 
 $$

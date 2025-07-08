@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/research/penalized-likelihood/","created":"2025-05-27T17:31:22.262-04:00","updated":"2025-07-07T17:32:53.488-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Research/Penalized Likelihood.md","permalink":"/stats/research/penalized-likelihood/","created":"2025-05-27T17:31:22.262-04:00","updated":"2025-07-07T17:32:53.488-04:00"}
 ---
 
 When a large number of variables/predictors are avaialable for predicting the response, the conventional MLE/Least Square Error

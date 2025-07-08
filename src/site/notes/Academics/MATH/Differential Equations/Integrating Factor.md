@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/integrating-factor/","created":"2024-10-04T14:47:02.768-04:00","updated":"2025-07-08T11:02:52.763-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Integrating Factor.md","permalink":"/math/differential-equations/integrating-factor/","created":"2024-10-04T14:47:02.768-04:00","updated":"2025-07-08T11:02:52.763-04:00"}
 ---
 
 # Integrating Factor

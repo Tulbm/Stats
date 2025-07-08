@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/higher-order-d-es/","created":"2024-10-09T14:32:45.775-04:00","updated":"2025-07-08T11:02:52.788-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Higher-Order DEs.md","permalink":"/math/differential-equations/higher-order-d-es/","created":"2024-10-09T14:32:45.775-04:00","updated":"2025-07-08T11:02:52.788-04:00"}
 ---
 
 # Functional Notation

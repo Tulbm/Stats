@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/sampling-distributions/","created":"2024-02-14T13:31:33.662-05:00","updated":"2025-07-07T17:21:02.466-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Sampling Distributions.md","permalink":"/stats/intro-to-stats/sampling-distributions/","created":"2024-02-14T13:31:33.662-05:00","updated":"2025-07-07T17:21:02.466-04:00"}
 ---
 
 Normal distribution results

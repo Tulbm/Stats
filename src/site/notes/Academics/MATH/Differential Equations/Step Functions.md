@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/step-functions/","created":"2024-11-08T15:10:26.910-05:00","updated":"2025-07-08T11:02:52.871-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Step Functions.md","permalink":"/math/differential-equations/step-functions/","created":"2024-11-08T15:10:26.910-05:00","updated":"2025-07-08T11:02:52.871-04:00"}
 ---
 
 Used in [[Academics/MATH/Differential Equations/Differential Equations\|Differential Equations]] that have discontinuities on the right hand side

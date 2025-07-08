@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/consistency/","created":"2025-01-30T12:13:22.547-05:00","updated":"2025-07-07T17:56:52.020-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Consistency.md","permalink":"/stats/math-stats-2/consistency/","created":"2025-01-30T12:13:22.547-05:00","updated":"2025-07-07T17:56:52.020-04:00"}
 ---
 
 $\hat{\theta}$ is a **consistent** estimator of the parameter $\theta$ if and only if  $\exists\epsilon>0$

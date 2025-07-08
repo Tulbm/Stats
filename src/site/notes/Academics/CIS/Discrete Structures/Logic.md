@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/logic/","created":"2023-10-16T16:38:58.372-04:00","updated":"2025-07-08T10:47:55.399-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Logic.md","permalink":"/cis/discrete-structures/logic/","created":"2023-10-16T16:38:58.372-04:00","updated":"2025-07-08T10:47:55.399-04:00"}
 ---
 
 - a statement in logic always has a well defined meaning

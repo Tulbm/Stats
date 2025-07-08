@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/autonomous-d-es/","created":"2024-10-04T14:48:00.987-04:00","updated":"2025-07-08T11:02:52.733-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Autonomous DEs.md","permalink":"/math/differential-equations/autonomous-d-es/","created":"2024-10-04T14:48:00.987-04:00","updated":"2025-07-08T11:02:52.733-04:00"}
 ---
 
 # Autonomous DEs

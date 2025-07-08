@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/multivariable-distributions/","created":"2024-10-10T16:16:21.439-04:00","updated":"2025-07-07T18:02:31.372-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Multivariable Distributions.md","permalink":"/stats/math-stats-1/multivariable-distributions/","created":"2024-10-10T16:16:21.439-04:00","updated":"2025-07-07T18:02:31.372-04:00"}
 ---
 
 # Discrete

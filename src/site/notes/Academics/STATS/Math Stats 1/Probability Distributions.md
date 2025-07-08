@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/probability-distributions/","created":"2024-10-01T16:54:34.929-04:00","updated":"2025-07-07T18:02:31.401-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Probability Distributions.md","permalink":"/stats/math-stats-1/probability-distributions/","created":"2024-10-01T16:54:34.929-04:00","updated":"2025-07-07T18:02:31.401-04:00"}
 ---
 
 [[Academics/STATS/Math Stats 1/Random Variables\|Random Variables]]

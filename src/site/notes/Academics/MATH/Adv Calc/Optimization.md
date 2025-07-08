@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/optimization/","created":"2024-11-04T11:05:49.292-05:00","updated":"2025-07-08T11:02:45.962-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Optimization.md","permalink":"/math/adv-calc/optimization/","created":"2024-11-04T11:05:49.292-05:00","updated":"2025-07-08T11:02:45.962-04:00"}
 ---
 
 Using derivatives to locate maxima and minima of a surface

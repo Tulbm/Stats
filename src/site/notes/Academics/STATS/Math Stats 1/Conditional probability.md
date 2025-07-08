@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/conditional-probability/","created":"2025-07-07T16:19:58.225-04:00","updated":"2025-07-07T18:02:31.456-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Conditional probability.md","permalink":"/stats/math-stats-1/conditional-probability/","created":"2025-07-07T16:19:58.225-04:00","updated":"2025-07-07T18:02:31.456-04:00"}
 ---
 
 

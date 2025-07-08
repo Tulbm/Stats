@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/set-theory/","created":"2023-11-19T02:08:52.374-05:00","updated":"2025-07-08T10:47:55.436-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Set Theory.md","permalink":"/cis/discrete-structures/set-theory/","created":"2023-11-19T02:08:52.374-05:00","updated":"2025-07-08T10:47:55.436-04:00"}
 ---
 
 ## Sets

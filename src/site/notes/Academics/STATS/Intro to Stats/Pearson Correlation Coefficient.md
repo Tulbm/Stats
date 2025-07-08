@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/intro-to-stats/pearson-correlation-coefficient/","created":"2024-04-18T20:31:37.740-04:00","updated":"2025-07-07T17:21:02.454-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Pearson Correlation Coefficient.md","permalink":"/stats/intro-to-stats/pearson-correlation-coefficient/","created":"2024-04-18T20:31:37.740-04:00","updated":"2025-07-07T17:21:02.454-04:00"}
 ---
 
 ## Pearson Correlation Coefficient

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/solution-to-d-es/","created":"2024-09-09T15:11:54.992-04:00","updated":"2025-07-08T11:02:52.880-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Solution to DEs.md","permalink":"/math/differential-equations/solution-to-d-es/","created":"2024-09-09T15:11:54.992-04:00","updated":"2025-07-08T11:02:52.880-04:00"}
 ---
 
 Solutions to DEs are functions instead of a number

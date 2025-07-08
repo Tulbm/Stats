@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/chapter-guide/","created":"2025-07-08T10:36:31.454-04:00","updated":"2025-07-08T10:50:45.198-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Chapter Guide.md","permalink":"/stats/math-stats-1/chapter-guide/","created":"2025-07-08T10:36:31.454-04:00","updated":"2025-07-08T10:50:45.198-04:00"}
 ---
 
 # 1 - Introduction

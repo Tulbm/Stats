@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/laplace-transforms/","created":"2024-11-01T14:54:35.653-04:00","updated":"2025-07-08T11:02:52.778-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Laplace Transforms.md","permalink":"/math/differential-equations/laplace-transforms/","created":"2024-11-01T14:54:35.653-04:00","updated":"2025-07-08T11:02:52.778-04:00"}
 ---
 
 $$

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/counting/","created":"2024-02-01T17:06:17.102-05:00","updated":"2025-07-08T10:47:55.318-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Counting.md","permalink":"/cis/discrete-structures/counting/","created":"2024-02-01T17:06:17.102-05:00","updated":"2025-07-08T10:47:55.318-04:00"}
 ---
 
 ## Fundamental Counting

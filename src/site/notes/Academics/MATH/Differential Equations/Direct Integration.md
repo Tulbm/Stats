@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/direct-integration/","created":"2024-10-04T14:47:51.915-04:00","updated":"2025-07-08T11:02:52.756-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Direct Integration.md","permalink":"/math/differential-equations/direct-integration/","created":"2024-10-04T14:47:51.915-04:00","updated":"2025-07-08T11:02:52.756-04:00"}
 ---
 
 # Direct Integration

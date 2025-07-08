@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/adv-calc/multi-variable-differential-calculus/","created":"2024-10-11T13:05:04.417-04:00","updated":"2025-07-08T11:02:45.932-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Adv Calc/Multi-variable Differential Calculus.md","permalink":"/math/adv-calc/multi-variable-differential-calculus/","created":"2024-10-11T13:05:04.417-04:00","updated":"2025-07-08T11:02:45.932-04:00"}
 ---
 
 # Partial Derivatives

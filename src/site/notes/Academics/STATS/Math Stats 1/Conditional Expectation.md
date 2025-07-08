@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/conditional-expectation/","created":"2024-11-12T17:03:45.735-05:00","updated":"2025-07-07T18:02:31.293-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Conditional Expectation.md","permalink":"/stats/math-stats-1/conditional-expectation/","created":"2024-11-12T17:03:45.735-05:00","updated":"2025-07-07T18:02:31.293-04:00"}
 ---
 
 If $f_{X|Y}(x|y)$ is the conditional probability distribution/density function of $X$ given $Y=y$ at $x$, the conditional expectation of $g(X)$ given $Y=y$ is

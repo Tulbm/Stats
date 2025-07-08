@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/probability/","created":"2024-02-29T16:44:52.477-05:00","updated":"2025-07-08T10:50:45.186-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Probability.md","permalink":"/cis/discrete-structures/probability/","created":"2024-02-29T16:44:52.477-05:00","updated":"2025-07-08T10:50:45.186-04:00"}
 ---
 
 The [[Academics/STATS/Intro to Stats/Probabilities concepts#Probabilities of Events\|probabilities of events]] will always be between 0 and 1 (the probability of the total sample space)

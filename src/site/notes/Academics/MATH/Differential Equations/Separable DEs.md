@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/separable-d-es/","created":"2024-10-04T14:47:07.490-04:00","updated":"2025-07-08T11:02:52.859-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Separable DEs.md","permalink":"/math/differential-equations/separable-d-es/","created":"2024-10-04T14:47:07.490-04:00","updated":"2025-07-08T11:02:52.859-04:00"}
 ---
 
 With functions in the form

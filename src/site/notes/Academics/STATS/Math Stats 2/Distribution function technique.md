@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-2/distribution-function-technique/","created":"2025-01-25T18:58:44.401-05:00","updated":"2025-07-07T17:51:56.036-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Distribution function technique.md","permalink":"/stats/math-stats-2/distribution-function-technique/","created":"2025-01-25T18:58:44.401-05:00","updated":"2025-07-07T17:51:56.036-04:00"}
 ---
 
 Suppose $X_{1},\dots,X_{n}$ is a set of continuous random variables with a known joint pdf $f_{X_{1},\dots X_{n}}(x_{1},\dots,x_{n})$ and

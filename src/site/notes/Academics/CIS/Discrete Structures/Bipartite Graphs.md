@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/bipartite-graphs/","created":"2024-03-28T16:52:36.805-04:00","updated":"2025-07-08T10:47:55.282-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Bipartite Graphs.md","permalink":"/cis/discrete-structures/bipartite-graphs/","created":"2024-03-28T16:52:36.805-04:00","updated":"2025-07-08T10:47:55.282-04:00"}
 ---
 
 $\operatorname{Let}G=(V,E)$ be a graph. A bipartition of $G$ is an ordered pair $(A,B)$ of subsets of $V$ with the properties:

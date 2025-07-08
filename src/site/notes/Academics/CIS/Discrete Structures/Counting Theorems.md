@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/cis/discrete-structures/counting-theorems/","created":"2024-09-10T16:05:23.646-04:00","updated":"2025-07-08T10:47:55.273-04:00"}
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Counting Theorems.md","permalink":"/cis/discrete-structures/counting-theorems/","created":"2024-09-10T16:05:23.646-04:00","updated":"2025-07-08T10:47:55.273-04:00"}
 ---
 
 # Basic Counting Properties

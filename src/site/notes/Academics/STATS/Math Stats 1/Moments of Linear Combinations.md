@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/stats/math-stats-1/moments-of-linear-combinations/","created":"2024-11-12T16:45:03.505-05:00","updated":"2025-07-07T18:02:31.360-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Moments of Linear Combinations.md","permalink":"/stats/math-stats-1/moments-of-linear-combinations/","created":"2024-11-12T16:45:03.505-05:00","updated":"2025-07-07T18:02:31.360-04:00"}
 ---
 
 If we have more than two random variables, $X_{1},X_{2},\dots,X_{n}$, for constants $a$:

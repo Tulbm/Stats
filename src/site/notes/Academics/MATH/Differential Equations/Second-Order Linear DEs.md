@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academics/math/differential-equations/second-order-linear-d-es/","created":"2024-10-09T14:52:58.115-04:00","updated":"2025-07-08T11:02:52.847-04:00"}
+{"dg-publish":true,"dg-path":"MATH/Differential Equations/Second-Order Linear DEs.md","permalink":"/math/differential-equations/second-order-linear-d-es/","created":"2024-10-09T14:52:58.115-04:00","updated":"2025-07-08T11:02:52.847-04:00"}
 ---
 
 # Second-Order Linear DEs
