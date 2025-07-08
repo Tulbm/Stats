@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Continuous Normal Distributions.md","permalink":"/intro-to-stats/continuous-normal-distributions/","created":"2024-04-01T17:19:05.284-04:00","updated":"2025-07-07T17:21:02.229-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Continuous Normal Distributions.md","permalink":"/stats/intro-to-stats/continuous-normal-distributions/","created":"2024-04-01T17:19:05.284-04:00","updated":"2025-07-07T17:21:02.229-04:00"}
 ---
 
 - distributions

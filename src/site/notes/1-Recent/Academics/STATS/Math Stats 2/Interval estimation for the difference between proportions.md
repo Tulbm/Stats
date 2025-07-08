@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Interval estimation for the difference between proportions.md","permalink":"/math-stats-2/interval-estimation-for-the-difference-between-proportions/","created":"2025-03-04T19:56:57.900-05:00","updated":"2025-07-07T17:32:42.449-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Interval estimation for the difference between proportions.md","permalink":"/stats/math-stats-2/interval-estimation-for-the-difference-between-proportions/","created":"2025-03-04T19:56:57.900-05:00","updated":"2025-07-07T17:32:42.449-04:00"}
 ---
 
 

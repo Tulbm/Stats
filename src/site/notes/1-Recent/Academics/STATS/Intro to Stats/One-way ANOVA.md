@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/One-way ANOVA.md","permalink":"/intro-to-stats/one-way-anova/","created":"2024-03-25T13:31:08.949-04:00","updated":"2025-07-07T17:21:02.355-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/One-way ANOVA.md","permalink":"/stats/intro-to-stats/one-way-anova/","created":"2024-03-25T13:31:08.949-04:00","updated":"2025-07-07T17:21:02.355-04:00"}
 ---
 
 - one-way **Analysis of Variance** (ANOVA) extends the methods of the pooled-variance two-sample t tests to more than two groups

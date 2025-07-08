@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Point Estimation.md","permalink":"/math-stats-2/point-estimation/","created":"2025-01-23T12:30:31.529-05:00","updated":"2025-07-07T17:32:42.509-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Point Estimation.md","permalink":"/stats/math-stats-2/point-estimation/","created":"2025-01-23T12:30:31.529-05:00","updated":"2025-07-07T17:32:42.509-04:00"}
 ---
 
 Using a point estimator $\hat{\theta}$ to estimate $\theta$

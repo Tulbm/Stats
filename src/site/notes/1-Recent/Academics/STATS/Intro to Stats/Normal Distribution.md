@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Normal Distribution.md","permalink":"/intro-to-stats/normal-distribution/","created":"2024-04-01T17:18:14.405-04:00","updated":"2025-07-07T17:21:02.401-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Normal Distribution.md","permalink":"/stats/intro-to-stats/normal-distribution/","created":"2024-04-01T17:18:14.405-04:00","updated":"2025-07-07T17:21:02.401-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Central Limit Theorem.md","permalink":"/intro-to-stats/central-limit-theorem/","created":"2024-04-01T13:48:55.543-04:00","updated":"2025-07-07T17:21:02.194-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Central Limit Theorem.md","permalink":"/stats/intro-to-stats/central-limit-theorem/","created":"2024-04-01T13:48:55.543-04:00","updated":"2025-07-07T17:21:02.194-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Covariance.md","permalink":"/math-stats-1/covariance/","created":"2024-11-12T17:49:16.001-05:00","updated":"2025-07-07T18:02:31.300-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Covariance.md","permalink":"/stats/math-stats-1/covariance/","created":"2024-11-12T17:49:16.001-05:00","updated":"2025-07-07T18:02:31.300-04:00"}
 ---
 
 The covariance of $X$ and $Y$ is the  [[1-Recent/Academics/STATS/Math Stats 1/Product of Moments\|Product of Moments]] about the mean

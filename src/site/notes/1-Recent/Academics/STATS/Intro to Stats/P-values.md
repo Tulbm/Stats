@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/P-values.md","permalink":"/intro-to-stats/p-values/","created":"2024-03-27T04:20:11.010-04:00","updated":"2025-07-07T17:21:02.379-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/P-values.md","permalink":"/stats/intro-to-stats/p-values/","created":"2024-03-27T04:20:11.010-04:00","updated":"2025-07-07T17:21:02.379-04:00"}
 ---
 
 The p-value is the smallest significance level at which a test would have led to a critical region, given the observed statistic, $\alpha_{0}$

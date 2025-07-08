@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Inference for Proportions.md","permalink":"/intro-to-stats/inference-for-proportions/","created":"2024-04-01T13:28:36.177-04:00","updated":"2025-07-07T17:21:02.367-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Inference for Proportions.md","permalink":"/stats/intro-to-stats/inference-for-proportions/","created":"2024-04-01T13:28:36.177-04:00","updated":"2025-07-07T17:21:02.367-04:00"}
 ---
 
 # for a single [[1-Recent/Academics/STATS/Intro to Stats/Sample Proportion\|proportion]] $p$

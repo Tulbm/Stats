@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Independency.md","permalink":"/math-stats-1/independency/","created":"2024-10-24T16:12:33.744-04:00","updated":"2025-07-07T18:02:31.336-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Independency.md","permalink":"/stats/math-stats-1/independency/","created":"2024-10-24T16:12:33.744-04:00","updated":"2025-07-07T18:02:31.336-04:00"}
 ---
 
 Two events are independent if and only if

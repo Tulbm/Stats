@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Beta Distribution.md","permalink":"/math-stats-1/beta-distribution/","created":"2024-11-28T16:10:52.088-05:00","updated":"2025-07-07T18:02:31.319-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Beta Distribution.md","permalink":"/stats/math-stats-1/beta-distribution/","created":"2024-11-28T16:10:52.088-05:00","updated":"2025-07-07T18:02:31.319-04:00"}
 ---
 
 A distribution similar to the binomial, but where the probability of success $p$ is not a constant

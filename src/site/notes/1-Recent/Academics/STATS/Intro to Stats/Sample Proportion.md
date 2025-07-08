@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Sample Proportion.md","permalink":"/intro-to-stats/sample-proportion/","created":"2024-04-01T13:34:06.182-04:00","updated":"2025-07-07T17:21:02.522-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Sample Proportion.md","permalink":"/stats/intro-to-stats/sample-proportion/","created":"2024-04-01T13:34:06.182-04:00","updated":"2025-07-07T17:21:02.522-04:00"}
 ---
 
 - sample proportion ( $\hat{p}$ )  

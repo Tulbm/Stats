@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Sufficiency.md","permalink":"/math-stats-2/sufficiency/","created":"2025-02-04T12:02:27.091-05:00","updated":"2025-07-07T17:32:42.535-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Sufficiency.md","permalink":"/stats/math-stats-2/sufficiency/","created":"2025-02-04T12:02:27.091-05:00","updated":"2025-07-07T17:32:42.535-04:00"}
 ---
 
 If as estimator $\hat{\theta}(X_{1},\dots,X_{n})$ provides all information that the sample contains for estimating $\theta$, $\hat{\theta}$ is said to be sufficient for $\theta$

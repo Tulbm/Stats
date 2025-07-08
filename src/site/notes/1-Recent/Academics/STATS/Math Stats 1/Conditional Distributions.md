@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Conditional Distributions.md","permalink":"/math-stats-1/conditional-distributions/","created":"2024-10-22T16:25:02.062-04:00","updated":"2025-07-07T18:02:31.286-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Conditional Distributions.md","permalink":"/stats/math-stats-1/conditional-distributions/","created":"2024-10-22T16:25:02.062-04:00","updated":"2025-07-07T18:02:31.286-04:00"}
 ---
 
 

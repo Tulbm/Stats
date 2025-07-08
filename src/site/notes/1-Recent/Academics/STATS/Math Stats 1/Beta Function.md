@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Beta Function.md","permalink":"/math-stats-1/beta-function/","created":"2024-11-28T16:16:09.574-05:00","updated":"2025-07-07T17:59:20.868-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Beta Function.md","permalink":"/stats/math-stats-1/beta-function/","created":"2024-11-28T16:16:09.574-05:00","updated":"2025-07-07T17:59:20.868-04:00"}
 ---
 
 

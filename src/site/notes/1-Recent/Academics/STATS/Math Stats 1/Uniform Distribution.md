@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Uniform Distribution.md","permalink":"/math-stats-1/uniform-distribution/","created":"2024-11-26T16:05:07.800-05:00","updated":"2025-07-07T18:02:31.414-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Uniform Distribution.md","permalink":"/stats/math-stats-1/uniform-distribution/","created":"2024-11-26T16:05:07.800-05:00","updated":"2025-07-07T18:02:31.414-04:00"}
 ---
 
 Similar to the [[1-Recent/Academics/STATS/Math Stats 1/Discrete Uniform Distribution\|Discrete Uniform Distribution]], but with a continuous range for the random variable $X$

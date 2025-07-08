@@ -1,0 +1,196 @@
+---
+{"dg-publish":true,"dg-path":"CIS/Discrete Structures/Logic.md","permalink":"/cis/discrete-structures/logic/","created":"2023-10-16T16:38:58.372-04:00","updated":"2025-07-08T10:47:55.399-04:00"}
+---
+
+- a statement in logic always has a well defined meaning
+	- can't be ambiguous like in spoken languages
+	- used in many fields to make precise statements
+		- law, medicine
+		- math to prove theorems
+		- cs for automated reasoning and in designing digital circuits
+## Propositional/Logical operations
+- differences z/l
+	- zybook = logical operation, compound proposition
+	- lectures = propositional operation, propositional expression
+- A proposition is a statement that is either true or false.
+	- the most basic element in logic
+	- can't be questions or commands
+- **truth value**
+	- indicates whether the proposition is true or false
+	- truth value doesnt change a proposition being a preposition 
+		- even if truth value is a matter of opinion or unknown
+- truth table
+	- ![](https://i.imgur.com/OdCKWZ1.png)
+
+- compound proposition(propositional expression)
+	- created by connecting individual propositions with logical(propositional) operations
+		- ^ = conjunction operation
+			- p ^ q = p and q (conjunction of p and q)
+				- p ^ q: january has 31 days and february has 33 days
+					- this compound preposition is false because q is false
+			- works just like x in b. algebra, or intersection in math
+				- p x q -> only true if p and q are true
+		- v = disjunction operation
+			- p v q = p or q (disjunction of p and q)
+				- p v q: january has 31 days or february has 33 days
+					- this compound preposition is true because p is true
+			- works just like + in b. algebra, or union in math
+				- p + q -> true if any of them are true
+			- inclusive or = v
+				- the most common, so we just call it or, and have a symbol for it(v)
+		- ⊕ = exclusive or
+			- our language or
+				- Lucy is going to the park or the movie
+					- for us its either one or the other
+					- so an exclusive or would not be true if both were true
+		- ¬ = negation operation
+			- ¬p = not p
+			- the same as complement/bar in b. algebra
+- propositional variables(such as p, q, r) can be used to denote arbitrary propositions
+	- p: january has 31 days
+	- q: february has 33 days
+- expressing conjunctions in english
+	- p and h
+	- p, but h
+	- despite the fact that p, h
+	- although p, h
+- standard for making tables
+	- ![](https://i.imgur.com/T5t1nqU.png)
+
+## Logical equivalence
+- this is zybook's definitions
+- A compound proposition is a tautology if the proposition is always true
+	- p v p'
+	- when not a tautology = easy to prove
+	- (p ^ q) -> p is a tautology
+		- if q is F, then F -> T
+			- which is true, like if 5 is even then 6 is even
+			- you cant give a counterexample to it
+- A compound proposition is a contradiction if the proposition is always false
+	- p ^ p'
+	- when not a contradiction = easy to prove
+- Two compound propositions are logically equivalent if they have the same truth value regardless of the truth values of their individual propositions
+	- ![](https://i.imgur.com/GGGZXXt.png)
+	- symbol = ≡
+- de morgan's laws in propositions
+	- ¬(p ∨ q)   ≡   (¬p ∧ ¬q)
+		- It is not true that the patient has migraines or high blood pressure.  
+		- The patient does not have migraines and does not have high blood pressure.
+	- ¬(p ∧ q)   ≡   (¬p ∨ ¬q)
+		- It is not true that the patient has migraines and high blood pressure.
+		- The patient does not have migraines or does not have high blood pressure.
+
+## Conditional Statements
+- conditional operation
+	- symbol ->
+	- p -> q = if p then q
+		- only false if p = true and q = false
+			- the only way for a conditional statement to be false is if the hypothesis is true and the conclusion is false
+		- p = hypothesis (antecedent in lectures)
+		- q = conclusion (consequent in lectures)
+- conditional proposition
+	- a compound proposition that uses an ->
+	- or conditional statement in english
+		- ![](https://i.imgur.com/5VSM8B6.png)
+		- only if =/= if and only if
+- converse, contrapositive, inverse
+	- ![](https://i.imgur.com/pxgIjYl.png)
+	- converse
+		- of p → q is q → p
+	- contrapositive
+		- of p → q is ¬q → ¬p
+	- inverse
+		- of p → q is ¬p → ¬q
+- biconditional operation
+	- if and only if
+		- or iff, "p is necessary and sufficient for q" or "if p then q, and conversely"
+	- p ↔ q
+		- same things as p -> q ^ q -> p
+	- only true when p/q are T/T or F/F
+- order of operations
+	- with no ( ), v/^and ¬ should be applied before → or ↔.
+- laws of propositional logic are the same ones from b. algebra
+	- ![](https://i.imgur.com/xqjgXwg.png)
+
+## Predicates and quantifiers
+- predicates
+	- A logical statement whose truth value is a function of one or more variables
+	- P(x) is not a proposition until we know what x is
+		- the x in P(x) is called a free variable
+			- it can take any value
+		- doesnt matter if all values of x are true in the predicate
+			- it still contains a variable
+	- the domain(universe in lectures) of a variable is the set of all possible values for the variable
+		- If the domain of a variable in a predicate is not clear from context, the domain should be given as part of the definition of the predicate.
+			- obvious = "x ia an odd number" -> domain would likely be the set of all integers
+- universal quantifier
+	- ∀ (for all)
+	- ∀x P(x) = "for all x, P(x)" or "for every x, P(x)"
+		- ![](https://i.imgur.com/SYCZ1QV.png)
+		- as all P(x) are true, their ^ will always be true
+		- counterexample = any element from the domain where the predicate is false
+			- if domain is empty, then ∀x P(x) is true because there are no counterexamples in the domain
+- existential quantifier
+	- ∃ (there exists)
+	- ∃x P(x) = "There exists an x, such that P(x)"
+		- ![](https://i.imgur.com/tTn7s2W.png)
+		- as theres at least one P(x) true, their v (union) will always be true
+		- only needs one example to be true
+		- counterexample = needs to show that all elements of the domain will be false in the predicate
+			- need to show that an arbitrary element(variable) from the domain is false
+			- if the domain is empty, ∃x P(x) is false because there are no examples where its true
+- quantified statements
+	- A logical statement that includes a universal or existential quantifier
+	- The quantifiers ∀ and ∃ are applied before the logical operations (higher precedence than ∧, ∨, →, and ↔) used for propositions.
+		- ∀x P(x) ∧ Q(x) = (∀x P(x)) ∧ Q(x) 
+			- as opposed to ∀x (P(x) ∧ Q(x)). 
+	- the variables in ∀xP(x) and ∃xP(x) are bound variables
+		- they are bound to the quantifier, can't change their value
+			- unlike the x in P(x), which can change its value and turn the predicate into a proposition
+		- In the statement (∀x P(x)) ∧ Q(x), the variable x in P(x) is bound by the universal quantifier, but the variable x in Q(x) is not bound by the universal quantifier.
+			- so the statement (∀x P(x)) ∧ Q(x) is not a proposition.
+			- in ∀x (P(x) ∧ Q(x)), ∀ binds both  variables, therefore its a proposition
+	- Two quantified statements have the same logical meaning if they have the same truth value regardless of value of the predicates for the elements in the domain.
+		- "Someone was sick and came to the party" is not the same as ∃x (S(x) ∨ P(x))
+			- its just ∃x (S(x) ^ P(x)), idk why it doesnt just say it in the zybook
+	- De Morgan's law
+		- ¬∀x F(x) ≡ ∃x ¬F(x)
+			- ¬∀x (P(x) ^ Q(x)) ≡ ∃x (¬P(x) v ¬Q(x)) 
+		- ¬∃x P(x) ≡ ∀x ¬P(x)
+			- ¬∃x (P(x) -> Q(x)) ≡ ∀x (P(x) ^ ¬Q(x)) 
+- nested quantifiers
+	- A logical expression with more than one quantifier that binds different variables in the same predicate
+	- The logical expression is a proposition if all the variables are bound.
+		- bound variables = variables with ∀ and ∃
+	- multiple quantifiers
+		- basically are just multiplying themselves
+		- ∀x ∀y M(x, y)
+			- M(x, y): x sent an email to y
+			- ∀x ∀y M(x, y) ↔ "Everyone sent an email to everyone."
+		- ∃x ∃y M(x, y)
+			- ∃x ∃y M(x, y) ↔ "There is a person who sent an email to someone."\
+		- ∃x ∀y M(x, y) 
+			- ∃x ∀y M(x, y) ↔ "There is a person who sent an email to everyone."
+		- ∀x ∃y M(x, y)
+			- ∀x ∃y M(x, y) ↔ "Every person sent an email to someone."
+		- two player game
+			- used when ∀ and ∃ mix
+			- two players compete to set the statement's truth value.
+				- one is the existential, other the universal
+				- ![](https://i.imgur.com/rExxZb4.png)
+		- De Morgan's Law with them
+			- Each time the negation sign moves past a quantifier, the quantifier changes type from universal to existential or from existential to universal
+			- ![](https://i.imgur.com/jVhsqOO.png)
+			- ¬∃x ∀y L(x, y )   ↔   There is no student who likes everyone in the school.
+				- ∀x ∃y ¬L(x, y )   ↔   Every student in the school has someone that they do not like.
+	- expressing "everyone else"
+		- (x ≠ y) → M(x, y)
+			- in order to a person to not email themselves
+			- ∀x ∀y ((x ≠ y) → M(x, y))
+	- expressing uniqueness
+		- ∃x L(x) can be one or more possibilities
+		- ![](https://i.imgur.com/kUskYcN.png)
+	- moving quantifiers
+		- ∀x (A(x) → ∃y M(x, y)) ≡ ∀x ∃y(A(x) → M(x, y))
+			- the quantified variables need to be distinct
+			- ∃y ∀x(A(x) → M(x, y)) could potentially change the meaning (going over another quantifier)

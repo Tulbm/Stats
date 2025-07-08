@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Discrete Uniform Distribution.md","permalink":"/math-stats-1/discrete-uniform-distribution/","created":"2024-11-14T16:14:37.768-05:00","updated":"2025-07-07T18:02:31.305-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Discrete Uniform Distribution.md","permalink":"/stats/math-stats-1/discrete-uniform-distribution/","created":"2024-11-14T16:14:37.768-05:00","updated":"2025-07-07T18:02:31.305-04:00"}
 ---
 
 A random variable $X$ has a discrete uniform distribution iff each possible value of $X$ is equally likely

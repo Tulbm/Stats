@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Bernoulli Distribution.md","permalink":"/intro-to-stats/bernoulli-distribution/","created":"2024-03-29T19:02:39.583-04:00","updated":"2025-07-07T17:21:02.150-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Bernoulli Distribution.md","permalink":"/stats/intro-to-stats/bernoulli-distribution/","created":"2024-03-29T19:02:39.583-04:00","updated":"2025-07-07T17:21:02.150-04:00"}
 ---
 
 - [[1-Recent/Academics/STATS/Intro to Stats/Binomial Distribution\|Binomial Distribution]] with only a single [[1-Recent/Academics/STATS/Intro to Stats/Bernoulli Trials\|trial]]

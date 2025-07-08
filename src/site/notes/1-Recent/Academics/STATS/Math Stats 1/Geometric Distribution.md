@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Geometric Distribution.md","permalink":"/math-stats-1/geometric-distribution/","created":"2024-11-19T16:46:16.169-05:00","updated":"2025-07-07T18:02:31.332-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Geometric Distribution.md","permalink":"/stats/math-stats-1/geometric-distribution/","created":"2024-11-19T16:46:16.169-05:00","updated":"2025-07-07T18:02:31.332-04:00"}
 ---
 
 A random variable $X$ has a geometric distribution $X\sim \text{geometric}(p)$ if and only if it has the probability distribution function

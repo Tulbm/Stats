@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Interval estimation for the difference between means.md","permalink":"/math-stats-2/interval-estimation-for-the-difference-between-means/","created":"2025-02-27T20:01:29.326-05:00","updated":"2025-07-07T17:32:42.443-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Interval estimation for the difference between means.md","permalink":"/stats/math-stats-2/interval-estimation-for-the-difference-between-means/","created":"2025-02-27T20:01:29.326-05:00","updated":"2025-07-07T17:32:42.443-04:00"}
 ---
 
 

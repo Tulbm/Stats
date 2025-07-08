@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Probability Densities.md","permalink":"/math-stats-1/probability-densities/","created":"2024-10-03T16:59:59.447-04:00","updated":"2025-07-07T18:02:31.410-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Probability Densities.md","permalink":"/stats/math-stats-1/probability-densities/","created":"2024-10-03T16:59:59.447-04:00","updated":"2025-07-07T18:02:31.410-04:00"}
 ---
 
 Also called, probability density functions (pdf), densities

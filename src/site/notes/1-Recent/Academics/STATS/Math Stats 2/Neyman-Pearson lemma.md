@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 2/Neyman-Pearson lemma.md","permalink":"/math-stats-2/neyman-pearson-lemma/","created":"2025-03-18T20:06:28.820-04:00","updated":"2025-07-07T17:32:42.484-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Neyman-Pearson lemma.md","permalink":"/stats/math-stats-2/neyman-pearson-lemma/","created":"2025-03-18T20:06:28.820-04:00","updated":"2025-07-07T17:32:42.484-04:00"}
 ---
 
 Used to derive the most powerful test, by finding the optimal critical region

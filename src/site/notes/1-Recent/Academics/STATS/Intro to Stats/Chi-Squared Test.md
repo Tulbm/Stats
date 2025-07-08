@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Chi-Squared Test.md","permalink":"/intro-to-stats/chi-squared-test/","created":"2024-04-01T14:03:23.830-04:00","updated":"2025-07-07T17:21:02.219-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Chi-Squared Test.md","permalink":"/stats/intro-to-stats/chi-squared-test/","created":"2024-04-01T14:03:23.830-04:00","updated":"2025-07-07T17:21:02.219-04:00"}
 ---
 
 # Method

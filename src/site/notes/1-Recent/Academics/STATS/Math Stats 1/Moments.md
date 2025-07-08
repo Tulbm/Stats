@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Moments.md","permalink":"/math-stats-1/moments/","created":"2024-11-05T16:37:05.823-05:00","updated":"2025-07-07T18:02:31.366-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Moments.md","permalink":"/stats/math-stats-1/moments/","created":"2024-11-05T16:37:05.823-05:00","updated":"2025-07-07T18:02:31.366-04:00"}
 ---
 
 The *rth* moment of a [[1-Recent/Academics/STATS/Math Stats 1/Random Variables\|random variable]] $X$ ($\mu'$) is the expected value of $X^r$

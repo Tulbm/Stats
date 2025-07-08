@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Intro to Stats/Hypergeometric Distribution.md","permalink":"/intro-to-stats/hypergeometric-distribution/","created":"2024-03-29T19:02:22.317-04:00","updated":"2025-07-07T17:21:02.347-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Intro to Stats/Hypergeometric Distribution.md","permalink":"/stats/intro-to-stats/hypergeometric-distribution/","created":"2024-03-29T19:02:22.317-04:00","updated":"2025-07-07T17:21:02.347-04:00"}
 ---
 
 

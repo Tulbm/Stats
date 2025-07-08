@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Math Stats 1/Product of Moments.md","permalink":"/math-stats-1/product-of-moments/","created":"2024-11-12T16:10:45.121-05:00","updated":"2025-07-07T18:02:31.443-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Product of Moments.md","permalink":"/stats/math-stats-1/product-of-moments/","created":"2024-11-12T16:10:45.121-05:00","updated":"2025-07-07T18:02:31.443-04:00"}
 ---
 
 The *rth* and *sth* product of [[1-Recent/Academics/STATS/Math Stats 1/Moments\|Moments]] about the means on the random variables $X$ and $Y$ ($\mu_{r,s}$) is
