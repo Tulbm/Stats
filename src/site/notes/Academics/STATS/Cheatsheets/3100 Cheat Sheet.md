@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Cheatsheets/3100 Cheat Sheet.md","permalink":"/stats/cheatsheets/3100-cheat-sheet/","created":"2025-07-07T16:19:57.723-04:00","updated":"2025-07-07T17:14:55.033-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Cheatsheets/3100 Cheat Sheet.md","permalink":"/stats/cheatsheets/3100-cheat-sheet/","created":"2025-07-07T16:19:57.723-04:00","updated":"2025-07-08T17:30:48.741-04:00"}
 ---
 
 **Discrete** 
@@ -33,7 +33,7 @@ $$
 $$
 f(x;n,N,M)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}   N-M\\ n-  x   \end{pmatrix}}{\begin{pmatrix}N\\n\end{pmatrix}},\quad \mu=\frac{nM}{N},\quad \sigma^2= \frac{nM(N-M)(N-n)}{N^2(N-1)}
 $$
-**poisson**
+**poisson** 
 $$
 f(x;\lambda)=\frac{\lambda
 { #xe}
