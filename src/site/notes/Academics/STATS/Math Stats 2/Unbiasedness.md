@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Unbiasedness.md","permalink":"/stats/math-stats-2/unbiasedness/","created":"2025-01-28T12:25:37.931-05:00","updated":"2025-07-07T17:32:42.573-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 2/Unbiasedness.md","permalink":"/stats/math-stats-2/unbiasedness/","created":"2025-01-28T12:25:37.931-05:00","updated":"2025-07-11T04:18:36.092-04:00"}
 ---
 
 We say $\hat{\theta}$ is an unbiased [[Academics/STATS/Math Stats 2/Point Estimation\|estimator]] of $\theta$ iff 
@@ -40,7 +40,7 @@ E(S_{2}^2) &= E\left( \frac{1}{n}\sum (x_{i}-\bar{x}) \right)^2 \\
  &= \frac{1}{n} E\left( \sum _{i=1}^n(x_{i}-\mu)^2+2(x_{i}-\mu)(\mu-\bar{x})+(\mu-\bar{x})^2 \right) \\
  & =\frac{1}{n}E\left( \sum (x_{i}-\mu)^2 \right)+ \frac{1}{n}E\left( \sum 2(x_{i}-\mu)(\mu-\bar{x}) \right) + \frac{1}{n} E\left( \sum (\mu-\bar{x})^2 \right) \\
  & =\frac{1}{n} n\sigma^2 + \frac{2}{n}E\left( (\mu-\bar{x})\sum (x_{i}-\mu)  \right) + \frac{1}{n} n E((\mu-\bar{x})^2) \\
- & =\sigma^2 + 2E((\mu-\bar{x})(x_{i}-\mu))+ \frac{\sigma^2}{n} \\
+ & =\sigma^2 + 2E((\mu-\bar{x})(\bar{x}-\mu))+ \frac{\sigma^2}{n} \\
  & =\sigma^2 - 2 E((\bar{x}-\mu)^2) + \frac{\sigma^2}{n} \\
  & =\sigma^2 - 2 \frac{\sigma^2}{n} + \frac{\sigma^2}{n} \\
  & =\frac{n-1}{n}\sigma^2 \quad \text{(a biased estimator for } \sigma
@@ -52,8 +52,9 @@ That's why we estimate the variance with
 $$
 \frac{1}{n-1} \sum_{i=1}^n(X_{i}-\bar{X})^2
 $$
-An unbiased estimate for $\sigma^2$ 
+An unbiased estimate for $\sigma^2$  (not the MLE tho)
 
-
-
-[[Academics/STATS/Math Stats 2/Mean square error\|Mean square error]]
+The [[Academics/STATS/Math Stats 2/Mean square error\|Mean square error]] is why
+$$
+E[(\bar{X}-\mu)^{2}]= Var(\bar{X})=\frac{\sigma^{2}}{n}
+$$

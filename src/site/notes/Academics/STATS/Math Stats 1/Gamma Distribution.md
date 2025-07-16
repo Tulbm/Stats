@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Gamma Distribution.md","permalink":"/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T11:23:23.571-04:00"}
+{"dg-publish":true,"dg-path":"STATS/Math Stats 1/Gamma Distribution.md","permalink":"/stats/math-stats-1/gamma-distribution/","created":"2024-11-26T16:18:00.506-05:00","updated":"2025-07-08T17:50:08.269-04:00"}
 ---
 
 # Probability Density Function
@@ -10,8 +10,8 @@ $$
 where $\alpha>0$ and $B>0$ and $\Gamma(\alpha)$ is the [[Academics/STATS/Math Stats 1/Gamma function\|Gamma function]]
 
 1. $f(x)\geq0, \quad \forall x$
-2. 
-   $$\begin{align}
+2.  
+$$\begin{align}
 \int_{-\infty}^\infty f(x)dx & =\int_{0}^\infty \frac{1}{\beta^\alpha \Gamma(\alpha)}x^{ \alpha-1}e^{-x/\beta}dx \\
  & = \frac{1}{\beta^\alpha \Gamma(\alpha)}\int_{0}^\infty x^{\alpha-1}e^{-x/\beta}dx \quad \left( y=\frac{x}{\beta} \right) \\
  & =\frac{1}{\beta^\alpha \Gamma(\alpha)}\int_{0}^\infty(\beta y)^{\alpha-1}e^{-y}\beta dy \quad(dx = \beta dy) \\
@@ -20,6 +20,7 @@ where $\alpha>0$ and $B>0$ and $\Gamma(\alpha)$ is the [[Academics/STATS/Math St
  & =1
 \end{align}
 $$
+
 Mean
 $$\begin{align}
 \mu=E(X) & =\int_{0}^\infty x \frac{1}{\beta^\alpha \Gamma(\alpha)}x^{\alpha-1}e^{-x/\beta}dx \\
