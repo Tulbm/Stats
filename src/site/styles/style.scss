@@ -217,3 +217,16 @@ p > code {
 .callout.is-collapsed .callout-fold .svg-icon {
     transform: rotate(-90deg);
 }
+
+.katex-display{
+   overflow-x: auto;
+   overflow-y: hidden;
+   padding: 1rem;
+   background-color: #f9fafb;
+   border-radius: 0.5rem;
+}
+
+.katex-display > .katex {
+   display: inline-block;
+   margin: max-content;
+}
